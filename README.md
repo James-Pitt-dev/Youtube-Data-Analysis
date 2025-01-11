@@ -34,3 +34,6 @@ The project follows a structured data analysis pipeline:
 ## Results and Insights  
 - High-performing categories such as Music and Movies were found to have 30% higher average viewership.  
 - Actionable strategies for creators: focus on engagement metrics like likes while targeting popular categories for maximum impact.  
+
+## Notebook  
+Explore the full analysis in the Jupyter Notebook: [analysis.ipynb](analysis.ipynb) 
