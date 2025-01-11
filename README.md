@@ -26,6 +26,7 @@ The project follows a structured data analysis pipeline:
 4. **Evaluation and Iteration:**  
    - Used R-squared, MSE, and RSS to refine models and improve predictions.  
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Regression Models for YouTube Views Prediction
 
 ### Objective: To gain actionable insights from YouTube data. We aim to identify the most influential metrics and popular categories.
