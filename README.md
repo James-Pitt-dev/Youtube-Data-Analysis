@@ -36,4 +36,4 @@ The project follows a structured data analysis pipeline:
 - Actionable strategies for creators: focus on engagement metrics like likes while targeting popular categories for maximum impact.  
 
 ## Notebook  
-Explore the full analysis in the Jupyter Notebook: [analysis.ipynb](analysis.ipynb) 
+Explore the full analysis in the Jupyter Notebook: [Project.ipynb](Project.ipynb) 
